@@ -14,13 +14,6 @@
 		967D5D2C1CA404C200B1AA16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967D5D2B1CA404C200B1AA16 /* Assets.xcassets */; };
 		967D5D2F1CA404C200B1AA16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 967D5D2D1CA404C200B1AA16 /* LaunchScreen.storyboard */; };
 		967D5D391CA404DE00B1AA16 /* STMusicTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D381CA404DE00B1AA16 /* STMusicTool.m */; };
-		967D5D3C1CA4E8B500B1AA16 /* 123.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 967D5D3B1CA4E8B500B1AA16 /* 123.mp3 */; };
-		967D5D4D1CA5344A00B1AA16 /* STTool+Audio.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D421CA5344A00B1AA16 /* STTool+Audio.m */; };
-		967D5D4E1CA5344A00B1AA16 /* STTool+FileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D441CA5344A00B1AA16 /* STTool+FileManager.m */; };
-		967D5D4F1CA5344A00B1AA16 /* STTool+FormatVerify.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D461CA5344A00B1AA16 /* STTool+FormatVerify.m */; };
-		967D5D501CA5344A00B1AA16 /* STTool+SystemInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D481CA5344A00B1AA16 /* STTool+SystemInfo.m */; };
-		967D5D511CA5344A00B1AA16 /* STTool+Verify.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D4A1CA5344A00B1AA16 /* STTool+Verify.m */; };
-		967D5D521CA5344A00B1AA16 /* STTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D4C1CA5344A00B1AA16 /* STTool.m */; };
 		967D5D551CA55D1100B1AA16 /* STMusicRandomTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 967D5D541CA55D1100B1AA16 /* STMusicRandomTool.m */; };
 /* End PBXBuildFile section */
 
@@ -37,19 +30,6 @@
 		967D5D301CA404C200B1AA16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		967D5D371CA404DE00B1AA16 /* STMusicTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STMusicTool.h; sourceTree = "<group>"; };
 		967D5D381CA404DE00B1AA16 /* STMusicTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STMusicTool.m; sourceTree = "<group>"; };
-		967D5D3B1CA4E8B500B1AA16 /* 123.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 123.mp3; sourceTree = "<group>"; };
-		967D5D411CA5344A00B1AA16 /* STTool+Audio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "STTool+Audio.h"; sourceTree = "<group>"; };
-		967D5D421CA5344A00B1AA16 /* STTool+Audio.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "STTool+Audio.m"; sourceTree = "<group>"; };
-		967D5D431CA5344A00B1AA16 /* STTool+FileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "STTool+FileManager.h"; sourceTree = "<group>"; };
-		967D5D441CA5344A00B1AA16 /* STTool+FileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "STTool+FileManager.m"; sourceTree = "<group>"; };
-		967D5D451CA5344A00B1AA16 /* STTool+FormatVerify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "STTool+FormatVerify.h"; sourceTree = "<group>"; };
-		967D5D461CA5344A00B1AA16 /* STTool+FormatVerify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "STTool+FormatVerify.m"; sourceTree = "<group>"; };
-		967D5D471CA5344A00B1AA16 /* STTool+SystemInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "STTool+SystemInfo.h"; sourceTree = "<group>"; };
-		967D5D481CA5344A00B1AA16 /* STTool+SystemInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "STTool+SystemInfo.m"; sourceTree = "<group>"; };
-		967D5D491CA5344A00B1AA16 /* STTool+Verify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "STTool+Verify.h"; sourceTree = "<group>"; };
-		967D5D4A1CA5344A00B1AA16 /* STTool+Verify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "STTool+Verify.m"; sourceTree = "<group>"; };
-		967D5D4B1CA5344A00B1AA16 /* STTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STTool.h; sourceTree = "<group>"; };
-		967D5D4C1CA5344A00B1AA16 /* STTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STTool.m; sourceTree = "<group>"; };
 		967D5D531CA55D1100B1AA16 /* STMusicRandomTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STMusicRandomTool.h; sourceTree = "<group>"; };
 		967D5D541CA55D1100B1AA16 /* STMusicRandomTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STMusicRandomTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,8 +64,6 @@
 		967D5D1E1CA404C200B1AA16 /* STMusicTool */ = {
 			isa = PBXGroup;
 			children = (
-				967D5D3B1CA4E8B500B1AA16 /* 123.mp3 */,
-				967D5D401CA5344A00B1AA16 /* STTool */,
 				967D5D361CA404D000B1AA16 /* STMusicTool */,
 				967D5D221CA404C200B1AA16 /* AppDelegate.h */,
 				967D5D231CA404C200B1AA16 /* AppDelegate.m */,
@@ -119,25 +97,6 @@
 			path = STMusicTool;
 			sourceTree = "<group>";
 		};
-		967D5D401CA5344A00B1AA16 /* STTool */ = {
-			isa = PBXGroup;
-			children = (
-				967D5D411CA5344A00B1AA16 /* STTool+Audio.h */,
-				967D5D421CA5344A00B1AA16 /* STTool+Audio.m */,
-				967D5D431CA5344A00B1AA16 /* STTool+FileManager.h */,
-				967D5D441CA5344A00B1AA16 /* STTool+FileManager.m */,
-				967D5D451CA5344A00B1AA16 /* STTool+FormatVerify.h */,
-				967D5D461CA5344A00B1AA16 /* STTool+FormatVerify.m */,
-				967D5D471CA5344A00B1AA16 /* STTool+SystemInfo.h */,
-				967D5D481CA5344A00B1AA16 /* STTool+SystemInfo.m */,
-				967D5D491CA5344A00B1AA16 /* STTool+Verify.h */,
-				967D5D4A1CA5344A00B1AA16 /* STTool+Verify.m */,
-				967D5D4B1CA5344A00B1AA16 /* STTool.h */,
-				967D5D4C1CA5344A00B1AA16 /* STTool.m */,
-			);
-			path = STTool;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -169,6 +128,11 @@
 				TargetAttributes = {
 					967D5D1B1CA404C200B1AA16 = {
 						CreatedOnToolsVersion = 7.3;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -197,7 +161,6 @@
 			files = (
 				967D5D2F1CA404C200B1AA16 /* LaunchScreen.storyboard in Resources */,
 				967D5D2C1CA404C200B1AA16 /* Assets.xcassets in Resources */,
-				967D5D3C1CA4E8B500B1AA16 /* 123.mp3 in Resources */,
 				967D5D2A1CA404C200B1AA16 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -211,15 +174,9 @@
 			files = (
 				967D5D271CA404C200B1AA16 /* ViewController.m in Sources */,
 				967D5D241CA404C200B1AA16 /* AppDelegate.m in Sources */,
-				967D5D511CA5344A00B1AA16 /* STTool+Verify.m in Sources */,
 				967D5D391CA404DE00B1AA16 /* STMusicTool.m in Sources */,
 				967D5D551CA55D1100B1AA16 /* STMusicRandomTool.m in Sources */,
-				967D5D4F1CA5344A00B1AA16 /* STTool+FormatVerify.m in Sources */,
 				967D5D211CA404C200B1AA16 /* main.m in Sources */,
-				967D5D521CA5344A00B1AA16 /* STTool.m in Sources */,
-				967D5D4E1CA5344A00B1AA16 /* STTool+FileManager.m in Sources */,
-				967D5D4D1CA5344A00B1AA16 /* STTool+Audio.m in Sources */,
-				967D5D501CA5344A00B1AA16 /* STTool+SystemInfo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
